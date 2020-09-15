@@ -17,7 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
-# .env.example (for setting up firebase)
+# .env.example (firebase credentials)
 FIREBASE_API_KEY = findThisInYourFirebaseConsole
 FIREBASE_AUTH_DOMAIN = 
 FIREBASE_DATABASE_URL = 
